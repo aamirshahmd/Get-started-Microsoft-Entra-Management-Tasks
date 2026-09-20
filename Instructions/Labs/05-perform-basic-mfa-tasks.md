@@ -43,7 +43,7 @@ This exercise should take approximately **10** minutes to complete.
    | Setting | What is it for |
    | :--- | :--- |
    | App passwords | There are some legacy apps that won't work with MFA, use this setting to allow a user to keep using them. |
-   | Trusted IPs | If your company has a specifc set of IP-address ranges that are always known safe, you can allow users to by-pass MFA the logging in. |
+   | Trusted IPs | If your company has a specifc set of IP-address ranges that are always known safe, you can allow users to by-pass MFA while logging in. |
    | Verification options | Select the methods you are willing to allow users to use for their second factor of authentication. |
    | Remember multifactor authentication on trusted device | If your users are using a device that you trust, like a company managed laptop; you can allow them to retain thier MFA approved status for a specified number of days. |
 
